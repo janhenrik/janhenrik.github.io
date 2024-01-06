@@ -32,12 +32,15 @@ exclude:
 
 google-analytics: G-4YBC1E0DV5
 
+remote_theme: jekyll/minima
+
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 whitelist:
   - jekyll-sitemap
