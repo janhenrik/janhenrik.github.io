@@ -30,6 +30,8 @@ exclude:
   - LICENSE
   - README.md
 
+google-analytics: G-4YBC1E0DV5
+
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -57,3 +59,8 @@ pagination:
   sort_reverse: true
   permalink: /:num/
   title: ":title &middot; Page :num"
+
+jekyll_analytics:
+  GoogleAnalytics:          
+    id: UA-123-456          
+    anonymizeIp: false      
