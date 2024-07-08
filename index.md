@@ -14,6 +14,6 @@ title: Home
 - 🗣 [Public speaking](/foredrag) (in Norwegian)
 - 🔬 [Published papers](/papers) 
 - 📫 How to reach me: [janhenrik@gundelsby.com](mailto:janhenrik@gundelsby.com) or on X [@janhenrik](https://x.com/janhenrik)
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him.
 
 {% include archive.html %}
