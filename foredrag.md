@@ -4,6 +4,7 @@ title: Foredrag
 ---
 ## Foredrag
 
+- [JavaZone 2024](https://vimeo.com/1006510882) » 10 resultater fra 10 år med forskning på team (med Nils Brede Moe)
 - [Undervisning UiO 2023 - IT og Ledelse - Produktorganisering og OKR](https://www.slideshare.net/janhenrik2/20230323itledproduktorganiseringogokrpdf) » ITLED4350 Produktorganisering og OKR
 - [Arendalsuka 2022](https://www.slideshare.net/janhenrik2/20220818-arendalsuka-organisering-av-produtviklingsteam-i-store-organisasjonerpdf) » Organisering av produktutvikling i store organisasjoner
 - [JavaZone 2021](https://vimeo.com/677812664) » Dynamisk DNS med AWS Lambda og Route 53
