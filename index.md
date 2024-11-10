@@ -13,7 +13,7 @@ title: Home
 - 💬 Ask me about IT and cloud strategy, technical leadership for the modern Lean Enterprise, mentoring, DevOps, lean methodology and autonomous teams. 
 - 🗣 [Public speaking](/foredrag) (in Norwegian)
 - 🔬 [Published papers](/papers) 
-- 📫 How to reach me: [janhenrik@gundelsby.com](mailto:janhenrik@gundelsby.com) or on X [@janhenrik](https://x.com/janhenrik)
+- 📫 How to reach me: [janhenrik@gundelsby.com](mailto:janhenrik@gundelsby.com) or on [LinkedIn](https://www.linkedin.com/in/janhenrikgundelsby/)
 - 😄 Pronouns: he/him.
 
 {% include archive.html %}
