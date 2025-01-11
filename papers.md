@@ -6,6 +6,10 @@ title: papers
 
 [Also see Google Scholar](https://scholar.google.com/citations?user=4bw3LsEAAAAJ)
 
+- [Responsible AI in Agile Software Engineering - An Industry Perspective](https://link.springer.com/chapter/10.1007/978-3-031-72781-8_4)
+  Rasmus Ulfsnes, Nils Brede Moe, Jostein Emmerhoff, Marcin Floryan, Anastasia Griva, Jan Henrik Gundelsby, Astri Moksnes Barbala & Kieran Conboy 
+  In: Marchesi, L., et al. Agile Processes in Software Engineering and Extreme Programming – Workshops. XP 2024. Lecture Notes in Business Information Processing, vol 524. Springer, Cham.
+
 - [The Future of Hybrid Software Development: Challenging Current Assumptions](https://ieeexplore.ieee.org/iel7/52/10043596/10043613.pdf)  
   K Conboy, NB Moe, V Stray, JH Gundelsby  
   IEEE Software 40 (02), 26-33, 5, 2023
